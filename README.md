@@ -8,9 +8,13 @@ Microsoft Visual Studio 2022.
 
 ## Algorithm:
 1.Start the program.
+
 2.Get the limit from the user,use for loop to print the rows ,columns and space.
+
 3.Use condition inside the loop to print the values.
+
 4.Print the Pascal's triangle.
+
 5.End the program.
 
 ## Program:
